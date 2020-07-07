@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/res"/>
+    <qresource prefix="/">
+        <file>resource/img/connectFailed.png</file>
+        <file>resource/img/fileopen.png</file>
+        <file>resource/img/fuzzydot.png</file>
+        <file>resource/img/inno.ico</file>
+        <file>resource/img/inno.png</file>
+        <file>resource/img/qt.png</file>
+        <file>resource/img/readImageFailed.png</file>
+        <file>resource/img/REC.png</file>
+        <file>resource/img/star.png</file>
+        <file>resource/img/start.png</file>
+        <file>resource/img/stop.PNG</file>
+        <file>resource/img/home.svg</file>
+        <file>resource/img/xml.svg</file>
+        <file>resource/img/openprogram.svg</file>
+        <file>resource/img/save.svg</file>
+        <file>resource/img/saveas.svg</file>
+        <file>resource/img/titlebarCenter.png</file>
+        <file>resource/img/titlebarRight.gif</file>
+        <file>resource/img/titlebarRight.png</file>
+        <file>resource/img/1.PNG</file>
+        <file>lang_zh.qm</file>
+        <file>resource/img/whiteBlank.png</file>
+    </qresource>
+</RCC>
